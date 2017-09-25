@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     @IBAction func buttonClicked(_ sender: UIButton) {
-        print("you finished!")
+        print("you finished! ")
     }
 
     override func didReceiveMemoryWarning() {
